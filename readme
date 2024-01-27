@@ -1,0 +1,9 @@
+Download Mongo DB 
+ran terminal in folder @mongod
+installed Mongo DB compass
+Ran on local host
+created folder: db
+run in root terminal: ./mongod --dbpath /Users/zainulabideen/Downloads/db  
+connected mongo DB compass with Local Host 
+Install Hebrew
+Run mongosh > show dbs
